@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VigilView</string>
+    <string name="hint_device_ip">Device IP (e.g. 100.x.x.x)</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="mute">Mute</string>
+    <string name="unmute">Unmute</string>
+    <string name="status_idle">Ready to connect</string>
+    <string name="status_connecting">Connecting&#8230;</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_failed">Failed: %s</string>
+    <string name="status_reconnecting">Reconnecting&#8230;</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="permission_required">Microphone permission is required</string>
+    <string name="enter_ip">Please enter a device IP address</string>
+</resources>
